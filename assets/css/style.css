@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 90px;
+    background-color: #f8f8f8;
+
+}
+.wrap{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.firstClass{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    width: 100px;
+    height: 60px;
+    background-color: #e77e23;
+   margin-top: 15px;
+    
+}
+.nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.main{
+    margin-top: 40px;
+}
+.mainClass{
+    display: flex;
+    justify-content: space-between;
+}
+.leftGreen{
+    width: 600px;
+    height: 400px;
+    background-color: #2ecd71;
+    margin-right: 20px;
+}
+.rightFour{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.blue1{
+    width: 280px;
+    height: 180px;
+    background-color: #3598db;
+    
+    
+}
+.red1{
+    width: 280px;
+    height: 180px;
+    background-color: #e84c3d;
+    
+}
+.yellow1{
+    width: 280px;
+    height: 180px;
+    background-color: #f1c40f;
+    margin-top: 35px;
+}
+.purple1{
+    width: 280px;
+    height: 180px;
+    background-color: #9b58b5;
+    margin-top: 35px;
+}
+.leftGreen1{
+    width: 600px;
+    height: 400px;
+    background-color: #2ecd71;
+
+}
+.rightFour1{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+.main1{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    width: 100px;
+    height: 60px;
+    background-color:  #e77e23;
+}
+.div2{
+    width: 100px;
+    height: 60px;
+    background-color:  #e77e23; 
+    margin-left: 5px;
+}
+.div3{
+    width: 60px;
+    height: 60px;
+    background-color:  #e77e23;
+    margin-left: 5px;
+}
+.div4{
+    width: 30px;
+    height: 60px;
+    background-color:  #e77e23;
+    margin-left: 5px;
+}
+.div5{
+    width: 100px;
+    height: 60px;
+    background-color:  #e77e23;
+    margin-left: 5px;
+}
+.lastDiv{
+    display: flex;
+    margin-top: 15px;
+}
+.images{
+    margin-top: 15px;
+}
+footer{
+    height: 90px;
+    background-color: #f8f8f8;
+
+}
